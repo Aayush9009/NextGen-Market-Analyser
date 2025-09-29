@@ -1,4 +1,4 @@
-# NextGen-Market-Analyser
+
 # 📘 NextGen Market Analyzer  
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?logo=node.js)  
@@ -31,9 +31,19 @@ Built with **Node.js, Express, React.js, and OpenAI API** to deliver smart finan
 ---
 
 ## 📁 Folder Structure
-
-
-
+NextGenMarketAnalyzer/
+├── backend/
+│ ├── controllers/
+│ ├── routes/
+│ ├── data/
+│ ├── .env
+│ └── app.js
+│
+├── frontend/
+│ ├── src/
+│ ├── public/
+│ ├── .env
+│ └── package.json
 
 ---
 
@@ -57,22 +67,7 @@ Built with **Node.js, Express, React.js, and OpenAI API** to deliver smart finan
 
 ---
 
-## ⚙️ Setup Instructions  
-
-### 🧩 Prerequisites  
-- Node.js & npm  
-- OpenAI API Key  
-- Internet connection  
-
-### 1️⃣ Clone the Project  
-```bash
-git clone <your-repo-url>
-cd NextGenMarketAnalyzer
-
-
----
-
-✨ This is the **complete README** with badges, formatting, and sections all in one place.  
-
-Do you also want me to add a **“Screenshots / Demo” section placeholder** (so you can later insert UI previews or API outputs), or should I leave it clean like this?
+👥 Authors
+TEAM - 33
+Project: NextGen Market Analyzer
 
